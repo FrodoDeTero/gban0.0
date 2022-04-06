@@ -15,3 +15,5 @@ Gban 使用25个拉丁字母。
     <tr><td>tʃ<td>dʒ<td>ʃ<td>ʒ<td>r</tr>
     <tr><td>k<td>g<td>x<td>ɣ<td>l</tr>
 </table>
+
+SSM的实现：通过声调。书写时通常不可省略空格。
